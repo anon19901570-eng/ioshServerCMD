@@ -1,1 +1,1 @@
-var config = { "v": 1, "marker": "alpha" }
+return { v: 1, marker: 'v1_module_obj' };
